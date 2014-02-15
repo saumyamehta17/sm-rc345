@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1678760062">
+    <data-source source="LOCAL" name="Rails sm-rc345: development" uuid="20e6f54f-0745-4765-9263-7dd780c6d31b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/sm-rc345_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfeadfd9dfd9dfdddf9adfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sm-rc345: test" uuid="371574a7-922f-4ecb-966c-8c8c863e350f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/sm-rc345_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfeadfd9dfd9dfdddf9adfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sm-rc345: production" uuid="9addbca7-8a70-48c9-bfae-d5c4f317f1e6">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:sm-rc345_production</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfeadfd9dfd9dfdddf9adfd8dfce</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
