@@ -4,11 +4,9 @@ HStore
 ```
 If we want to have hash of values for single column in postgres, hstore is your chioce
 ```
-
-
 git clone
 ```
-
+git clone 'https://github.com/sweetymehta/sm-rc345.git'
 ```
 basic step
 ```
@@ -27,6 +25,12 @@ rake db:migrate
 rails g bootstrap:install
 rails g simple_form:install
 ```
+scaffold
+```
+#todo
+rake db:migrate
+rails g bootstrap:themed orders -f
+````
 Making a column as hash of attributes
 ```
 rails g scaffold product prod_name properties:hstore
@@ -62,17 +66,7 @@ To add more value in exting hstore values
 ```
 p.properties = (p.properties || {}).merge({company: 'newspaper'})
 ```
-scaffold
-```
-#todo
-rake db:migrate
-rails g bootstrap:themed orders -f
-````
 Rails Server
 ```
 rails s
-```
-Rails Console
-```
-rails c
 ```

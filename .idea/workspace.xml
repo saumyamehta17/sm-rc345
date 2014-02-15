@@ -26,7 +26,16 @@
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="3" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1245">
+            <state line="32" column="4" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="1155">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="731" selection-end="731" vertical-scroll-proportion="0.8415493" vertical-offset="77" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
@@ -41,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="products_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="19" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.62057334" vertical-offset="622" max-vertical-offset="1215">
+            <state line="66" column="19" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.0" vertical-offset="622" max-vertical-offset="1215">
               <folding />
             </state>
           </provider>
@@ -116,14 +125,14 @@
       <list>
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/.ruby-version" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/db/migrate/20140215180808_index_products_properties.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/views/products/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/app/controllers/products_controller.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -455,11 +464,6 @@
         <state line="62" column="0" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.88335925" vertical-offset="362" max-vertical-offset="1020" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.39657855" vertical-offset="0" max-vertical-offset="643" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="643">
@@ -502,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="3" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1245">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="24" selection-start="204" selection-end="204" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="300">
@@ -525,7 +522,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="19" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.62057334" vertical-offset="622" max-vertical-offset="1215">
+        <state line="66" column="19" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.0" vertical-offset="622" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="4" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="1155">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="731" selection-end="731" vertical-scroll-proportion="0.8415493" vertical-offset="77" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
